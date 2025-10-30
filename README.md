@@ -29,10 +29,10 @@ Mini-SPA (cadastro-spa.js): A página Cadastro.html utiliza o conceito de Single
 O formulário é carregado dinamicamente via JavaScript.
 A submissão é feita via AJAX, e a troca para a mensagem de sucesso é realizada sem que o usuário perceba um recarregamento completo da página, proporcionando uma experiência de usuário moderna e fluida.
 
+<img width="846" height="419" alt="Captura de tela 2025-10-29 233737" src="https://github.com/user-attachments/assets/645316b8-2109-40eb-bc83-c36a6145b7cd" />
 
-*******************************************
+<img width="845" height="479" alt="Captura de tela 2025-10-29 233720" src="https://github.com/user-attachments/assets/78dd8e57-609d-47f1-ab2d-8f4cc868a07c" />
 
-******************************
 
 ⚙️ Como Executar
 Clone o repositório: git clone https://github.com/AndrewAlexandre/Projeto-Front-end-para-Web-com-CSS-SPA.JS
